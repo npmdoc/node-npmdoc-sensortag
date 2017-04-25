@@ -1,4 +1,7 @@
-# api documentation for  [sensortag (v1.3.0)](https://github.com/sandeepmistry/node-sensortag)  [![npm package](https://img.shields.io/npm/v/npmdoc-sensortag.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sensortag) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sensortag.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sensortag)
+# npmdoc-sensortag
+
+#### basic api documentation for  [sensortag (v1.3.0)](https://github.com/sandeepmistry/node-sensortag)  [![npm package](https://img.shields.io/npm/v/npmdoc-sensortag.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sensortag) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sensortag.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sensortag)
+
 #### Node.js lib for the TI SensorTag
 
 [![NPM](https://nodei.co/npm/sensortag.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sensortag)
@@ -59,7 +62,8 @@
     "scripts": {
         "test": "jshint lib/*.js"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
